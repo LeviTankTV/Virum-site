@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/social-preview.png" alt="VIRUM — a cursor horror game" width="100%" />
+</p>
+
 # VIRUM — project page
 
 Static landing page for **VIRUM**, a cursor horror game in eight acts.
